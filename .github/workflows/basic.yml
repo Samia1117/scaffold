@@ -1,6 +1,5 @@
 name: Python application test with Github Actions
 on: [push]
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -10,18 +9,17 @@ jobs:
     - uses: actions/setup-python@v1
       with:
         python-version: 3.8
-        
     - name: Install dependencies
-        run: |
+      run: |
           make install
     - name: Lint with Pylint
-        run: |
+      run: |
           make lint 
     - name: Test with Pytest
-        run: |
+      run: |
           make test
     - name: Format code with Python black
-        run: |
+      run: |
           make format
 
       
