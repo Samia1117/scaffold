@@ -1,4 +1,4 @@
-# scaffold
+# scaffold AWS Cloud
 A repo to build a framework of general projects in python. All code pushed from AWS cloud environment.
 
 Status badge (on "added new readme.txt"):
