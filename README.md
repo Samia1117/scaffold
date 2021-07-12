@@ -1,5 +1,5 @@
-# scaffold AWS Cloud
-A repo to build a framework of general projects in python. All code pushed from AWS cloud environment.
+# scaffold AZURE Cloud
+A second repo for a general framework for python project.
 
-Status badge (on "added new readme.txt"):
-[![IPython application test with Github Actions](https://github.com/Samia1117/scaffold/actions/workflows/basic.yml/badge.svg)](https://github.com/Samia1117/scaffold/actions/workflows/basic.yml)
+All code pushed from AZURE cloud environment.
+

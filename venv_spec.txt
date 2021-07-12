@@ -1,0 +1,9 @@
+Start at home directory (~) 
+
+create a python virtual environment:
+
+	python3 -m venv ~/.scaffold   # make scaffold invisible "."
+
+activate the virtual environment:
+   
+	source ~/.scaffold/bin/activate
