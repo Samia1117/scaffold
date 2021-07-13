@@ -1,4 +1,4 @@
-# scaffold GOOGLE CLOUD PLATFORM ]
+# scaffold Google Cloud Platform
 A third repo for a general framework for python projects.
 
 All code pushed from Google Cloud Platform shell environment.
