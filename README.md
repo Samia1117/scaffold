@@ -1,5 +1,5 @@
 # scaffold AZURE Cloud
-A second repo for a general framework for python project.
+A third repo for a general framework for python projects.
 
-All code pushed from AZURE cloud environment.
+All code pushed from Google Cloud Platform shell environment.
 
