@@ -19,6 +19,9 @@ jobs:
     - name: Format code with Python black
       run: |
         make format
+    - name: Test code with pytest
+      run: |
+        make test
           
           
         
